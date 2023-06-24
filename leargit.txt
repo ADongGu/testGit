@@ -1,0 +1,2 @@
+this is one text 
+ 	for learn git
